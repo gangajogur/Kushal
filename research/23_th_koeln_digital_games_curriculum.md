@@ -1,0 +1,13 @@
+# TH Koeln (Cologne Game Lab) B.A. Digital Games - Game Programming track
+Sources: module handbook https://www.th-koeln.de/mam/downloads/deutsch/internationales/incomings/f02_cgl_digital_games_ba.pdf ; flyer https://www.th-koeln.de/mam/downloads/deutsch/studium/studiengaenge/f02/flyer/digital_games_ba.pdf ; study plan PDF ; https://www.th-koeln.de/studium/studieninhalte-digital-games-ba_8671.php . Accessed 2026-10-24 (search snippets; full handbook cached 92 KB, partly read). Confidence: high on structure, medium on details.
+
+## Facts
+- B.A., 7 semesters (3.5 yrs), English, NO tuition (semester fee ~EUR 353 incl. Germany-wide transport ticket), start mid-September (winter semester), only ~35 STUDENTS PER YEAR across all three tracks (very selective), application = Cologne Game Lab procedure (aptitude test/portfolio) + uni-assist for internationals; deadline 1-31 March (DAAD). University entrance qualification required (=> Studienkolleg + FSP for him; Fachabitur equivalence).
+- Semesters 1-2: common foundation for all three tracks (Game Design, Game Arts, Game Programming/Informatics): game design, storytelling, audiovisual design, animation, prototyping, programming, project management, game & media studies. From semester 3: specialisation with 10-ECTS modules (Game Programming I in sem 3, II in sem 4, III in sem 6); practical interdisciplinary project at the end of each semester; sem 5 = exchange / internship / own project.
+- Game Programming track content (flyer): computer architecture; basic maths (trigonometry, linear algebra, 3D); basic informatics (algorithms, artificial intelligence); frontend (2D/3D graphics, browser); backend (network, database, client/server); OS specifics; software management; game engines.
+- Game Programming III (handbook module BA.019.3, 10 ECTS): linear algebra for 3D tech; basic 3D games with Direct3D/OpenGL; advanced shader programming; Lua script engine embedding; mobile OS features (iOS/Android sensors); physics engines (Box2D, Havok, PhysX) and simple game physics; an introduction to AI for games (module text cut off - verify).
+
+## Fit to nephew
+- STRONG on: engine/graphics/physics programming, real teams with artists/designers, shipping prototypes, direct games portfolio; Cologne = Gamescom city, many contacts.
+- WEAK on: formal CS depth (a B.A.: maths is "basic"; no OS/DS&A/ML core as at a CS degree), AI = introduction only; research/thesis smaller. Degree is "Bachelor of Arts" - may matter for engineering-type employers/visa/Master's admission (Masters in CS usually need B.Sc.). Only 35 seats.
+- Language: English teaching; German for daily life; German studios often English-friendly but varies.
