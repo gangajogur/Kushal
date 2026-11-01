@@ -22,11 +22,12 @@ Dropped: Deakin, UWA, AIE diploma, Constructor (weaker fit or too expensive).
 | ISSE, no reduction | 45 | 41 | 5 | 91 |
 | ISSE, 20% reduction (likely floor) | 36 | 41 | 5 | 82 |
 | ISSE, 50% / 100% reduction | 23 / 0 | 41 | 5 | 69 / 47 |
-| Aizu | 16 | 29 (my estimate, unverified) | 5 | 47-56 |
+| Aizu (CORRECTED 2026-10-24 from Aizu's official living-cost page: JPY 60-100k/month) | 17 | 14-29 (mid 23) | 5 | 39-51 (mid ~45) |
 | India B.Tech, local WIT (living at home) | ~6 | low | - | ~6-10 |
 | India B.Tech, COEP or NIT/IIIT (hostel) | 6-10 | 4-6 | - | 8-16 |
 | India Master's abroad, Germany | - | - | - | +37-48 |
-| Japan MEXT graduate scholarship | waived | stipend JPY 144,000/month | - | ~11-13 for a full degree |
+| Japan MEXT UNDERGRADUATE scholarship (embassy track; ~12 slots India-wide; next round ~Apr-May 2027 for April 2028 start; 2027 round closed 25 May 2026) | waived | stipend JPY 117,000/month + airfare | - | ~11-13 for a full degree (if won) |
+| (Japan MEXT GRADUATE scholarship, JPY 144,000/month - only relevant to an India B.Tech -> Master's in Japan route, NOT to a Bachelor's) | - | - | - | not counted |
 | h_da (Germany, via Studienkolleg) | ~3 (semester fees) | 57 | 4 | 62-74 |
 | DIT (Germany) | ~5 | 57 | 4 | 66-74 |
 | TH Koeln (Germany) | ~3 | 57 | 4 | 62-69 |
@@ -35,11 +36,25 @@ Dropped: Deakin, UWA, AIE diploma, Constructor (weaker fit or too expensive).
 Germany: tuition is near zero; cost is living over ~4.5 years (Studienkolleg + 3.5 years study). Japan: ISSE dearer than Aizu mainly through tuition and Osaka living.
 
 ## Ranking / decision path
-1. Wait for ISSE result (late Nov 2026). 50% or 100% reduction -> take it. Only 20% floor -> close call vs Aizu (Aizu ~Rs 32 lakh cheaper; ISSE has the ICE game-AI lab and Osaka/Kyoto). No reduction -> prefer Aizu.
+1. Wait for ISSE result (late Nov 2026). 50% or 100% reduction -> take it. Only 20% floor -> close call vs Aizu (Aizu ~Rs 37 lakh cheaper (mid ~45 vs 82); ISSE has the ICE game-AI lab and Osaka/Kyoto). No reduction -> prefer Aizu.
 2. Apply to Aizu (15 Feb-5 Mar 2027) as the cost-effective backup.
-3. Keep India open: register for JEE Main (Jan 2027) and MHT-CET; strong seat (COEP / NIT / IIIT) makes India-first a good option; WIT Solapur is a cheap safety. MEXT graduate scholarship application is spring each year (low odds).
+3. Keep India open: register for JEE Main (Jan 2027) and MHT-CET; strong seat (COEP / NIT / IIIT) makes India-first a good option; WIT Solapur is a cheap safety. MEXT UNDERGRADUATE (embassy) scholarship application is ~Apr-May each year (low odds; next for April 2028 start). The MEXT graduate scholarship is for a later Master's only.
 4. Germany = Plan C (h_da first, DIT for AI depth, TH Koeln for 35-seat games programme).
 5. Abertay/DigiPen: benchmarks only.
+
+## Part-time work effect (see research/52_part_time_work_germany_vs_japan.md)
+Rules: Germany 140 days/yr (about 20 h/week not binding), min wage EUR 13.90, Minijob up to EUR 603/month tax-free, no work in Studienkolleg year except holidays (verify). Japan 28 h/week cap, min wage Osaka JPY 1,231 / Fukushima (Aizu) JPY 1,094; Japanese language needed for most jobs.
+Realistic savings over the degree (low to mid hours): Germany Rs 11-22 lakh (net total ~Rs 45-60 lakh); ISSE Rs 8-14 lakh (net ~Rs 68-74 lakh at the 20% floor); Aizu Rs 7-12 lakh (net ~Rs 30-40 lakh). Pays about 2x more per hour in Germany, but living costs are higher. Income arrives after costs; it trims loan size, not upfront tuition/visa proof.
+
+## Other affordable countries (first pass; see research/70_other_countries_affordable.md - curriculum not yet scored)
+| Option | Language | Est. cost (Rs lakh) | Key deadline |
+|---|---|---|---|
+| KAIST (S. Korea) - full tuition waiver + KRW 350k/month for all admitted internationals; very selective | English (Korean not required) | ~15-25 | Regular: 10 Nov 2026 - 14 Jan 2027 |
+| Hungary Stipendium Hungaricum (ELTE BSc CS) - tuition waived + stipend + dorm | English (+ Hungarian course) | ~17-26 if won | Call opens Nov 2026; ~mid-Jan 2027 (verify) |
+| Czech Republic - CTU Prague Informatics (3 yrs, EUR 5.2k/yr) / Charles Univ. CS (EUR 7.1k/yr) | English | ~43 (40-50) | CTU: 31 Mar 2027 |
+| Turkey - Turkiye Burslari (full scholarship, 1-yr Turkish course first, under 21) | English programme after Turkish year | ~5-12 if won (rough) | 10 Jan - 20 Feb 2027 |
+| Poland - PJAIT / Warsaw UT | English | ~60-69 (about Germany) | - |
+| Taiwan | mostly Mandarin undergrad (English bachelor unverified) | ~25-66 | - |
 
 ## Known gaps
 - Aizu living cost and some Aizu courses (DS&A, OS, ML) unverified; Aizu selection method (documents vs exam) unclear.
