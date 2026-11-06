@@ -25,3 +25,5 @@ Project: Bachelor's degree research for the user's nephew (India -> overseas). C
 - 05_open_questions.md - questions for user + answers
 - research/ - raw notes per university / topic
 - report/ - final comparison and opinion
+- Loan/ - education loan repayment table for Rs 1.5 crore with AUD column (`Loan/repayment_table_1.5cr.md`; rerun `Loan/calc_repayment.py` to change rate/tenure/FX)
+- background_checks/ - due-diligence on third-party organisations (`background_checks/wemakescholars/README.md` and sibling `background_checks/adwisko/README.md`; both are the same founder group; `background_checks/qut_india_agents/README.md` = QUT's mandatory agent route + ranked agents)

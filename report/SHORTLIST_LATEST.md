@@ -1,14 +1,15 @@
 # Overall shortlist (latest) - saved 2026-10-24
 Supersedes the option tables in `FINAL_REPORT_v2.md` where they differ (adds India-first path, German top 3, language needs and cost split). Costs are planning estimates in Rs lakh (FX: 100 JPY = Rs 60.49, 1 EUR = Rs 106.45, 1 GBP = Rs 127.13, 1 USD = Rs 94.94). Fit = my 0-28.5 skills score for a game-AI / systems programmer (see research/31_curriculum_matrix_v2.md and research/61_indian_curricula.md).
 
-Status: nephew has applied to Ritsumeikan ISSE (April 2027); result about 26 Nov 2026. Next Indian start is Aug 2027 (Maharashtra 2026-27 admissions closed 14 Sep 2026). JEE Main 2027 Session 1: 22-30 Jan 2027. His JEE/MHT-CET result and current German level are still unknown.
+UPDATE 2026-11-01: nephew was REJECTED by Ritsumeikan ISSE. All ISSE rows/paths below are now moot; Aizu (apply 15 Feb-5 Mar 2027, Oct 2027 start), India, KAIST/Hungary/Turkey scholarships and Germany remain. He is doing self-study while deciding (see report/SELF_STUDY_PLAN.md). Reason for rejection not known.
+(Original status, now outdated:) nephew has applied to Ritsumeikan ISSE (April 2027); result about 26 Nov 2026. Next Indian start is Aug 2027 (Maharashtra 2026-27 admissions closed 14 Sep 2026). JEE Main 2027 Session 1: 22-30 Jan 2027. His JEE/MHT-CET result and current German level are still unknown.
 
 ## Shortlist and language needs
 All shortlisted degrees are taught in English. Non-English needs:
 | # | Option | Teaching language | Non-English language needed | Fit | Start |
 |---|---|---|---|---|---|
 | 1 | Ritsumeikan ISSE (Osaka) - applied | English | JAPANESE: not for entry; daily life and game-studio jobs (N2/N1) | 81% | Apr 2027 |
-| 2 | University of Aizu (Fukushima, public) | English | JAPANESE: not for entry; N2 for jobs; credit Japanese classes | 75% | Oct 2027 (apply 15 Feb-5 Mar 2027) |
+| 2 | University of Aizu (Fukushima, public) - **ELIGIBILITY WARNING 2026-11-01: for AY2027 Aizu accepts ONLY ACT, AP, EJU, International A-level or IB as academic proof (Indian Class XII/HSC/CBSE and national exams were DELETED; SAT is not listed). English proof must be TOEFL (new scale 4+), TOEIC 785, Eiken Pre-1 or IELTS 5.5 (Duolingo not listed). His HSC + SAT 1310 do NOT qualify as they stand - he would need ACT (or EJU/AP/IB/A-level). Confirm with sgu-admission@u-aizu.ac.jp.** | English | JAPANESE: not for entry; N2 for jobs; credit Japanese classes | 75% | Oct 2027 (apply 15 Feb-5 Mar 2027) |
 | 3 | India B.Tech then Master's abroad (COEP / NIT-IIIT / WIT Solapur as safety) | English | None for B.Tech; GERMAN or JAPANESE for the Master's depending on country | 35-65% (college dependent) | Aug 2027 |
 | 4 | h_da Darmstadt, Animation & Game (Technology) | English | GERMAN: Studienkolleg year is taught in German (~B1-B2); daily life and most jobs | 75% | WS 2028 |
 | 5 | DIT Deggendorf, B.Sc. AI | English | GERMAN: same as above | 60% | WS 2028 |
