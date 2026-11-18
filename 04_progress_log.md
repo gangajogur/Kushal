@@ -30,3 +30,11 @@
 NOTE: Shell tool is broken (sandbox error), Grep can't read agent-tools cache files; use Read with offset instead. WebFetch/WebSearch work fine. No BLOCKED resources so far. Phase 2/3 "extra universities" items downgraded to optional context only.
 
 - 2026-11-06: Created Loan/ folder. Rs 1.5 cr repayment table (9%, 15 yrs, 15-month moratorium; method verified against WeMakeScholars Rs 40 lakh example) with AUD column at 1 AUD = Rs 66.82. EMI ~Rs 1,69,256 (~AUD 2,533). Files: Loan/repayment_table_1.5cr.md, repayment_schedule_full.csv, calc_repayment.py.
+
+- 2026-11-08: Loan/ revised model per user: 3-yr course, Rs 50 lakh drawn at start of each year, no payments for course + 12-month grace, 9% compounded annually, 15 yrs EMI. Principal at first EMI Rs 1,94,73,553; EMI Rs 1,97,514 (AUD 2,956); yearly repayment Rs 23.70 lakh (AUD 35,471). Files: Loan/repayment_analysis_3yr_course.md, repayment_schedule_3yr_course.csv, calc_repayment_3yr_course.py. Earlier file kept (simplified; understated).
+
+- 2026-11-13: QUT nephew fact-check rewritten (fixed prior INR/AUD EMI swap). Loan sized to QUT costs only with semester draws, +3% fee growth, personal A$350/mo, board covered by uncle. Min EMI A$2,124 / Rs 1,41,950. Base case ~break-even at A$70k + shared rent; year-3 cash / years-2+3 cash scenarios in Loan/QUT_loan_fact_check_report.md.
+
+- 2026-11-18: Separate India-return scenario saved as Loan/QUT_return_to_India_scenario.md. Same QUT base EMI Rs 1,41,950/mo; Rs 10-12 LPA metro job cannot self-fund (shortfall ~Rs 88k/mo at Rs 11 LPA). Break-even ~Rs 25 LPA CTC.
+
+- 2026-11-18: APU->India return scenario saved as Loan/APU_return_to_India_scenario.md. APU loan ~Rs 45.7 lakh drawn (tuition+SST+KL living); EMI ~Rs 59,233/mo. At Rs 11 LPA metro job shortfall ~Rs 5.2k/mo; break-even ~Rs 11.05 LPA. Much lighter than QUT->India (~Rs 88k/mo shortfall).

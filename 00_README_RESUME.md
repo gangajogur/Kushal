@@ -25,5 +25,5 @@ Project: Bachelor's degree research for the user's nephew (India -> overseas). C
 - 05_open_questions.md - questions for user + answers
 - research/ - raw notes per university / topic
 - report/ - final comparison and opinion
-- Loan/ - education loan repayment table for Rs 1.5 crore with AUD column (`Loan/repayment_table_1.5cr.md`; rerun `Loan/calc_repayment.py` to change rate/tenure/FX)
+- Loan/ - education loan numbers. CURRENT for nephew: `Loan/QUT_loan_fact_check_report.md` (QUT BIT Jul 2027, board covered, stay+work Brisbane). Risk streams: `Loan/QUT_return_to_India_scenario.md`; `Loan/APU_return_to_India_scenario.md` (APU Malaysia fees+KL living, then India job). Scripts: `calc_qut_report.py`, `calc_qut_india_return.py`, `calc_apu_india_return.py`.
 - background_checks/ - due-diligence on third-party organisations (`background_checks/wemakescholars/README.md` and sibling `background_checks/adwisko/README.md`; both are the same founder group; `background_checks/qut_india_agents/README.md` = QUT's mandatory agent route + ranked agents)

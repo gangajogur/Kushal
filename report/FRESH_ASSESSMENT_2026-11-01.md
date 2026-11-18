@@ -2,7 +2,10 @@
 
 **Research date:** 1 November 2026. Every figure below was fetched on or around this date. This assessment is independent of earlier saved notes.
 **Second pass (1 Nov 2026, evening):** corrections and additions are marked **(Updated, 2nd pass)**. The new material is in section 10 at the end: QUT scholarship, apply-direct vs agent, Deakin vs QUT vs Griffith ranking, and the Indian degree plus master's route.
-**FX used (1 Nov 2026 mid-market):** 1 AUD ≈ ₹66.82; 1 GBP ≈ ₹127.25; 1 CAD ≈ ₹68.08.
+**Third pass (2 Nov 2026):** University of Western Australia (UWA) added. Changes are marked **(Updated, 3rd pass)**: the contenders table and ranking in 10.3, and the new section 10.6. **UWA's India deadline for Semester 1 2027 is 28 Dec 2026.**
+**Fourth pass (18 Nov 2026):** Asia Pacific University (APU), Kuala Lumpur, added as section 10.7, with a four-way comparison against QUT, UWA and Deakin. Curriculum comparison added as 10.8 (detail in `research/80_au_my_curriculum_comparison_2026-11.md`). Sections 1, 4, 5, 7, 8 and 9 refreshed to include UWA and APU.
+**Contents:** 1 Bottom line · 2 HSC history · 3 Eligibility vs chance · 4 Cost · 5 Quality · 6 Overseas-career evidence · 7 Ranked shortlist · 8 Action plan and dates · 9 Uncertainties · 10.1 QUT scholarship · 10.2 Direct vs agent · 10.3 Deakin/QUT/Griffith and Australian ranking · 10.4 Indian degree then master's · 10.5 Open points (1–10) · 10.6 UWA · 10.7 APU · 10.8 Curriculum fit.
+**FX used (1 Nov 2026 mid-market):** 1 AUD ≈ ₹66.82; 1 GBP ≈ ₹127.25; 1 CAD ≈ ₹68.08. **MYR (18 Nov 2026):** 1 RM ≈ ₹22.83 [3P: twelvedata.com].
 **Labels:** [O] = official source; [3P] = third-party aggregator; [EST] = my estimate or judgement; [UNVERIFIED] = could not confirm.
 
 ---
@@ -10,13 +13,14 @@
 ## 1. Bottom line
 
 1. The only way to start university before mid-2027 is overseas. India's counselling cycles all end in an August 2027 start. Australia offers February/March 2027 intakes. Choosing India means roughly 9 more months of waiting.
-2. **Recommendation for this student: study in Australia, starting Feb/Mar 2027.** Monash is the strongest realistic target, then QUT, then Deakin (offer in hand) as the safe seat. Full Australian ranking is in section 10.3 **(Updated, 2nd pass)**. Run the Indian applications in parallel as a fallback for August 2027. They are cheap to file (₹1,300–2,000 each).
+2. **Recommendation for this student: study in Australia, starting Feb/Mar 2027.** Monash is the strongest realistic target, then QUT, then Deakin (offer in hand) as the safe seat. UWA ranks fifth in Australia and APU (Kuala Lumpur) is a separate low-cost option. Full Australian ranking is in section 10.3 **(Updated, 2nd and 3rd pass)**. Run the Indian applications in parallel as a fallback for August 2027. They are cheap to file (₹1,300–2,000 each).
 3. The case for India is cost, not speed. A comparable BITS or MIT Manipal degree costs about ₹24–32 lakh, against about ₹1.5–1.9 crore in Australia. Overseas study does not guarantee an overseas career (section 6).
 4. Two gating items for Australia:
    - **English test.** Duolingo is not accepted by QUT or Monash for direct entry. It is also not an approved Australian student-visa test. Book IELTS Academic or PTE Academic now.
    - **Deadlines.** QUT closes on 25 Jan 2027 for offshore Indian applicants. The UTS Autumn deadline is 30 Nov 2026.
    - **Agent rule (Updated, 2nd pass).** QUT and Deakin require offshore Indian applicants to apply through an authorised agent or representative. Griffith, Monash and Swinburne allow direct applications (section 10.2).
 5. **Deakin offer already in hand (Updated, 2nd pass).** Treat it as the safe seat. Check whether the offer letter already includes the Deakin 25% scholarship (section 10.3). Deakin is in Melbourne, while QUT and Griffith are in Queensland.
+6. **UWA and APU (Updated, 4th pass).** UWA costs about ₹1.7–1.8 cr, its BSc has no machine learning, and its India deadline is **28 Dec 2026** (section 10.6). APU costs about ₹41–56 lakh and starts 25 Mar 2027, but a Malaysian degree gives no post-study work route (section 10.7). Curriculum fit across Deakin, QUT, UWA and APU is in section 10.8.
 
 ---
 
@@ -103,8 +107,10 @@ All "chance" ratings are [EST]. They are my judgement from published thresholds 
 | Option | Years | Tuition | Living | Total ≈ |
 |---|---|---|---|---|
 | Griffith BIT | 3 | AUD 121.5k (2026 fee, 3P) | AUD 90–105k | **₹1.43–1.53 cr** (Updated, 2nd pass; ₹1.27–1.37 cr with the 20% scholarship) |
-| Deakin BCS | 3 | AUD 131k | AUD 90–105k | **₹1.49–1.60 cr** |
+| Deakin BCS | 3 | AUD 131k | AUD 90–105k | **₹1.49–1.60 cr** (Updated, 2nd pass; ₹1.28–1.38 cr with the likely 25% scholarship) |
 | QUT BIT | 3 | AUD 140k | AUD 90–105k | **₹1.55–1.65 cr** |
+| UWA BSc (CS major) (Updated, 3rd pass) | 3 | AUD 163k (AUD 54,400/yr; one read showed 54,600) | AUD 90–105k (Perth not researched) | **₹1.71–1.81 cr** (₹1.60–1.70 cr if the 10% scholarship applies) |
+| APU BSc CS (AI), Kuala Lumpur (Updated, 4th pass) | 3 | RM 115k incl. 6% tax | RM 58–108k incl. housing (APU budget RM 1,600–2,000/month, rent possibly extra) | **₹0.41–0.56 cr** at RM 1 = ₹22.83 (fees RM 5.4–7.4k included; flights excluded) |
 | Monash BCS | 3 | AUD 166.5k | AUD 90–105k | **₹1.72–1.83 cr** |
 | UQ BCompSci | 3 | AUD 183k | AUD 90–105k | **₹1.83–1.94 cr** |
 | Leeds BSc CS | 3 | £98k | £39–45k (my estimate) | **₹1.74–1.82 cr** |
@@ -115,13 +121,13 @@ All "chance" ratings are [EST]. They are my judgement from published thresholds 
 | VIT CSE | 4 | ₹9–22 lakh incl. hostel (3P) | | **₹0.09–0.22 cr** |
 | Amrita CSE | 4 | ₹6–24 lakh by slab, plus hostel ₹0.7–1.2 lakh/yr | | **₹0.06–0.28 cr** |
 
-Australia is within the ₹1.5 crore budget at QUT and Deakin, and exceeds it at Monash and UQ.
+Australia is within the ₹1.5 crore budget at QUT and Deakin, and exceeds it at Monash, UWA and UQ. (Updated, 3rd pass) APU is the only overseas option well below the budget. Section 10.3 has the scholarship-adjusted figures for the other Australian universities.
 
 ---
 
 ## 5. Course quality and internships
 
-- I did not gather new global ranking data in this pass, so I make no ranking claims. Monash and UQ are Group of Eight universities. QUT, Deakin and Griffith are not.
+- **(Updated, 2nd to 4th pass)** QS 2026 Computer Science and Information Systems ranks: Monash 51, UNSW 54, UTS 55, UQ 99, Macquarie 101, RMIT 117, QUT 160, Deakin 172, UWA 251, APU about 301–350 (third-party), Swinburne 351, Griffith 401–500. Sources and caveats are in sections 10.3 and 10.7. Monash, UQ, UNSW and UWA are Group of Eight universities. QUT, Deakin, Griffith and APU are not. Subject ranks don't measure how well a degree fits Kushal: see section 10.8.
 - The Indian private universities publish placement claims that mix medians and maximums. Use medians only. BITS median CTC is ₹18 LPA (NIRF 2025, institution-wide). VIT median is ₹8.99 LPA. MIT Manipal quotes highest packages of ₹69.25 lakh domestic and ₹2.19 crore international, which are marketing figures and not medians.
 - Internship availability for international students in Australia and Canada is not something I could verify in this pass. Treat it as a risk to manage.
 
@@ -147,11 +153,15 @@ Studying abroad does not by itself deliver an overseas career. The evidence I fo
 2. **QUT BIT (Computer Science major), Feb 2027.** High chance. Apply through a QUT representative before 25 Jan 2027. No scholarship for him. **(Updated, 2nd pass)**
 3. **MIT Manipal / MIT Bengaluru CSE via MET, Aug 2027.** Best Indian private option at a fraction of the cost. The Monash and ANU dual degrees (closing ranks about 17,800–20,200) are the hybrid choice.
 4. **BITS Goa or Hyderabad CSE.** Strong value, but eligibility is uncertain and he needs about 272+ out of 390.
-5. **Deakin BCS, T1 Mar 2027.** Offer already in hand, so this is the safe Australian seat. Confirm the 25% scholarship and the offer's acceptance deadline. **(Updated, 2nd pass)**
-6. **VIT / Amrita CSE.** Near-certain Indian fallback.
-7. **JEE Main (NIT/IIIT) and MHT-CET.** Low-probability tickets with little downside. Register for JEE Main by 22 Nov.
-8. **Leeds / Sheffield (UK), Sept 2027.** Borderline, no timing advantage, and the visa runway is shorter.
-9. **Canada (mid-tier), Fall 2027.** Four years, a permit-cap risk, and a CLB 7 requirement. Not recommended for this profile.
+5. **Deakin BCS, T1 Mar 2027.** Offer already in hand, so this is the safe Australian seat. Confirm the 25% scholarship and the offer's acceptance deadline. **(Updated, 2nd pass)** If AI is his main interest, compare it with Deakin's Bachelor of Artificial Intelligence (S308) at the same fee (section 10.8).
+6. **UWA BSc (Computer Science), Feb 2027. (Updated, 3rd pass)** Go8 name, but about ₹1.7–1.8 cr, no ML in the BSc, and Perth is far from family. India deadline 28 Dec 2026. Optional: apply only if the Go8 name matters to you.
+7. **APU BSc CS (AI), Kuala Lumpur, 25 Mar 2027. (Updated, 4th pass)** The only low-cost seat that starts in March 2027 (₹41–56 lakh). Choose it only if cost dominates or as a fallback. No post-study work route. Get a written entry assessment first.
+8. **VIT / Amrita CSE.** Near-certain Indian fallback.
+9. **JEE Main (NIT/IIIT) and MHT-CET.** Low-probability tickets with little downside. Register for JEE Main by 22 Nov.
+10. **Leeds / Sheffield (UK), Sept 2027.** Borderline, no timing advantage, and the visa runway is shorter.
+11. **Canada (mid-tier), Fall 2027.** Four years, a permit-cap risk, and a CLB 7 requirement. Not recommended for this profile.
+
+(Updated, 4th pass) This list mixes India, Australia and Malaysia. The Australia-only ranking is in section 10.3: Monash, QUT, Deakin, RMIT, UWA, Macquarie, Swinburne, Griffith.
 
 ---
 
@@ -161,8 +171,12 @@ Studying abroad does not by itself deliver an overseas career. The evidence I fo
 |---|---|
 | **This week** | Book IELTS Academic or PTE Academic (target 6.5 overall, 6.0+ each band). Check the Home Affairs checklist tool for visa acceptability. |
 | **Before 22 Nov 2026** | Register for JEE Main Session 1 (₹ fee small). It is optional but keeps the NIT/IIIT route alive. |
+| **By 28 Nov 2026** | **(Updated, 2nd pass)** Griffith Vice-Chancellor's 50% scholarship closes for T1 2027 (highly competitive; only if applying to Griffith). |
 | **By 30 Nov 2026** | UTS Autumn offshore deadline (only if UTS is wanted). |
+| **Dec 2026** | **(Updated, 3rd and 4th pass)** Check the Deakin offer's acceptance deadline and refund terms. Ask a UWA agent to confirm his ATAR equivalent, the maths bridging load and BH008 transfer. Ask APU for a written entry assessment (Class 12). |
+| **By 28 Dec 2026** | **(Updated, 3rd pass)** UWA Semester 1 2027 application deadline for India (third-party source; confirm on UWA's course page). Only if UWA is wanted. |
 | **Dec 2026–Jan 2027** | Apply to Monash (direct or agent), QUT (agent required), Griffith (direct or agent). Deakin offer is already in hand. **(Updated, 2nd pass)** Email BITS about the 2025/2026 history. Register for MET, VITEEE and AEEE as the portals open. |
+| **By Feb 2027** | **(Updated, 4th pass)** If choosing APU for the 25 Mar 2027 intake, accept the offer and start the student-pass application early. EMGS processing time is not confirmed. |
 | **By 25 Jan 2027** | QUT final date. Accept by 8 Feb 2027. |
 | **Feb–Mar 2027** | Student visa application once an unconditional offer is in hand. Allow several weeks. |
 | **Apr–Jun 2027** | Sit MET, VITEEE, AEEE and MHT-CET if still keeping India open. These are fallbacks if Australia doesn't proceed. |
@@ -180,7 +194,7 @@ Studying abroad does not by itself deliver an overseas career. The evidence I fo
 6. MHT-CET 2027 dates are unannounced.
 7. IIIT Pune and Nagpur final ranks, and the UK living-cost figure, were not confirmed.
 8. Third-party figures (Shiksha, careers360, fee aggregators, CAP compilations) should be checked against the official page before any payment.
-9. **(Updated, 2nd pass)** More open points are listed at the end of section 10.
+9. **(Updated, 2nd to 4th pass)** More open points are listed at the end of sections 10.5 (items 1–10), 10.6 (11–14) and 10.7 (15–20).
 
 ---
 
@@ -276,6 +290,7 @@ Ranked order for the three (my judgement): **1. QUT, 2. Deakin, 3. Griffith.** Q
 | **RMIT** BIT (Melbourne City) | 117 | State board 75% for ATAR-70 equivalent [O: [RMIT India equivalency](https://www.rmit.edu.au/study-with-us/international-students/apply-to-rmit-international-students/entry-requirements/country-equivalency/india)] | AUD 45,120 | **₹1.34–1.44 cr** (20% auto) | Good value for the ranking. |
 | **Macquarie** BIT (Sydney) | 101 | Selection rank 75; conversion of Maharashtra HSC **unverified** | AUD 46,300 | **₹1.35–1.45 cr** (AUD 10k/yr India award) | Entry rank is higher than QUT's 70; risk that 82% maps below 75. |
 | **Swinburne** BCS (Hawthorn, Melbourne) | 351 (QS); Swinburne says 29th globally and 2nd in Australia in ShanghaiRanking Computer Science and Engineering 2026 [Swinburne news] | 62% for other state boards | AUD 44,300 (2026 indicative; 2027 TBA) | **₹1.33–1.43 cr** (20% auto) | Rankings disagree across providers. I could not reconcile them. |
+| **UWA** BSc, Computer Science major (Perth) **(Updated, 3rd pass)** | 251 (Go8; QS overall about 77) | ATAR 70 equivalent; his state-board conversion is unverified (section 10.6) | AUD 54,400 | **₹1.71–1.81 cr** (no scholarship; ₹1.60–1.70 cr if the 10% award applies) | Direct or agent. India deadline 28 Dec 2026. ML is not in the BSc (section 10.6). |
 | **UTS** (Sydney) | 55 | "Competitive pass", no fixed % | AUD ~57,240 first year | ~₹1.8 cr+ (no scholarship checked) | Offshore deadline 30 Nov 2026 (Autumn). Not value-driven. |
 | **UQ**, **UNSW** | 99 and 54 | ATAR 84 and 85 equivalent | AUD 60,952 and ~61,500 | ₹1.8–1.95 cr | Reaches. Conversion of his marks unverified. |
 
@@ -287,9 +302,10 @@ QS rank source: QS 2026 subject ranking as reproduced by [Information Age (ACS)]
 2. **QUT BIT (CS).** Best fit if Brisbane proximity matters; no scholarship.
 3. **Deakin BCS.** Offer in hand; best value among the ranked mid-tier choices if the 25% is confirmed.
 4. **RMIT BIT.** QS 117, 20% automatic, about ₹1.34–1.44 cr.
-5. **Macquarie BIT.** QS 101, but a higher entry bar and an unverified conversion.
-6. **Swinburne BCS.** Cheap with 20%, good research ranking claim, lower QS.
-7. **Griffith BIT.** Cheapest Queensland option; lowest academic rank. Consider Griffith's Bachelor of Computer Science (code 1534, Gold Coast; ATAR 67 guaranteed-admission threshold for local students [O: Griffith guaranteed admission scheme]) instead of the BIT, since its title is closer to a software career; I did not verify its fee.
+5. **UWA BSc (Computer Science). (Updated, 3rd pass)** Go8 brand, but QS subject rank 251, no scholarship likely, about ₹1.7–1.8 cr, Perth is far from family, and the 3-year degree has no machine-learning unit. Details in 10.6. It moves up to 3rd or 4th if overall-university brand matters more to you than the CS subject rank and curriculum.
+6. **Macquarie BIT.** QS 101, but a higher entry bar and an unverified conversion.
+7. **Swinburne BCS.** Cheap with 20%, good research ranking claim, lower QS.
+8. **Griffith BIT.** Cheapest Queensland option; lowest academic rank. Consider Griffith's Bachelor of Computer Science (code 1534, Gold Coast; ATAR 67 guaranteed-admission threshold for local students [O: Griffith guaranteed admission scheme]) instead of the BIT, since its title is closer to a software career; I did not verify its fee.
 
 Reaches, not ranked: UQ, UNSW, UTS.
 
@@ -340,3 +356,148 @@ So the total money is similar to an Australian bachelor's alone. What changes is
 8. QS and ShanghaiRanking figures disagree across sources for Swinburne and Monash. I used QS 2026 only for the ranking table.
 9. The 3-year post-study visa for Indian master's graduates comes from a Victorian Government page. Verify on Home Affairs.
 10. The suggestion that Gold Coast is about an hour from Brisbane is my general knowledge, not a researched fact.
+
+### 10.6 University of Western Australia (UWA) (Updated, 3rd pass, 2 Nov 2026)
+
+**Course:** Bachelor of Science (BP004), Computer Science major, 3 years, Perth. 144 points. The CS major is ACS-accredited. [O: [UWA handbook MJD-CMPSC](https://www.handbooks.uwa.edu.au/majordetails?code=MJD-CMPSC)]
+
+**Admission, cost and logistics**
+
+| Item | Finding |
+|---|---|
+| Minimum entry | ATAR 70 or equivalent for the BSc. Needs Mathematics Methods ATAR, or Mathematics Applications ATAR plus a first-year maths unit. UWA's table for Indian ISC lists "no equivalent" to Maths Methods; the course guide says students without ATAR Mathematics take two first-year maths units. [O: [2027 course guide](https://www.assethub.uwa.edu.au/api/public/content/7802a0a29171438280d1adfe191cb532?v=fb90793b), [UWA overseas qualifications](https://www.uwa.edu.au/study/how-to-apply/pathways-and-eligibility/international-and-overseas-qualifications)] Ask whether the bridging units add time or only use elective space. |
+| His 82% Maharashtra HSC | **Unverified.** I could not find UWA's current Indian state-board conversion. The current table for ISC (CBSE-style boards) maps 60% to ATAR 70, 75% to ATAR 85, 80% to ATAR 90. An older 2020 UWA table listed a state-board column (79% for ATAR 85, 84% for ATAR 90), but its ISC column was about 6 points easier than today's, so treat it as outdated. Reasonable expectation: he clears ATAR 70 comfortably. Whether he reaches ATAR 85 is uncertain. |
+| 2027 fee | AUD 54,400/yr in the 2027 fee list I read (an earlier read showed AUD 54,600; confirm). About AUD 163k for 3 years. [O: [UWA fees](https://fees.uwa.edu.au)] |
+| Scholarship | Global Excellence Scholarship (2027): 10% for equivalent ATAR 85–89.95, 20% for ATAR 90+, automatic from the final transcript. He gets it only if his marks convert to ATAR 85 or higher. Plan without it. |
+| Apply | Direct on the UWA Application Portal, or through an authorised agent. AUD 150 fee either way. [O: [UWA international applicants](https://www.uwa.edu.au/study/how-to-apply/international-applicants)] Agent list: uwa.edu.au/study/international-students/find-an-international-agent. |
+| Deadline | **Semester 1 2027 (Feb): 28 Dec 2026 for India**, 11 Jan 2027 for most other countries. Semester 2 (July): 24 May 2027 for India. [3P: Uniacross and an admissions aggregator quoting UWA; confirm on the UWA course page.] |
+| English | UWA accepts Duolingo for admission (overall 125 with Speaking 115, Writing 125, Reading 115, Listening 110), so his 130 might qualify if the sub-scores are right [3P]. Duolingo does not count for the student visa, so he still needs IELTS, PTE or TOEFL. |
+| Graduate outcomes | UWA-specific international undergraduate CS data not found. UWA postgraduate Computing and Information Systems (all students): 80.6% full-time work, median A$107,200 [O: [ComparED](https://www.compared.edu.au/institution/the-university-of-western-australia/study-area/computing-information-systems/postgraduate)]. Not comparable to the other figures. |
+| Cost estimate [EST] | Tuition AUD 163k, living AUD 90–105k (Perth cost not researched; I used the same range as elsewhere), visa AUD 2.5k: **₹1.71–1.81 cr**. With a 10% scholarship: ₹1.60–1.70 cr. |
+
+**Curriculum fit with his interests (AI, robotics, games/graphics; embedded and ML-leaning)**
+
+- **Computer Science major (what he can enter).** Core: Advanced Algorithms, Computer Networks, Professional Computing, Agile Web Development, plus Level 1–2 foundations. Options: **Graphics and Animation** (OpenGL, GLSL shaders, 3D animation, ends with a 3D interactive project; the unit says it leads to games programming and computer vision), Knowledge Representation, **Intelligent Agents**, High Performance Computing, Secure Coding, Human-Computer Interaction, and a CS WIL Internship. [O: [handbook MJD-CMPSC](https://www.handbooks.uwa.edu.au/majordetails?code=MJD-CMPSC), [Graphics and Animation CITS3003](https://handbooks.uwa.edu.au/unitdetails?code=CITS3003)]
+- **Machine learning and deep learning are not in the BSc major.** They sit at Level 4–5 and are open to Honours or master's students. The **Artificial Intelligence major** (includes Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, AI and Adaptive Systems, an AI ethics unit) is offered only in the 4-year **Bachelor of Advanced Computer Science (Honours)**. [O: [AI major](https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ARIDM), [BH008](https://www.handbooks.uwa.edu.au/coursedetails?code=bh008)]
+- **That degree needs ATAR 90 or equivalent** (proposed 92 for progression, WAM 70 to reach Honours), costs AUD 54,400/yr for 4 years (about AUD 218k tuition), and is unlikely for an 82% state-board result. [O: BH008 handbook] Treat it as a stretch, not a plan. If he enters the BSc first and reaches WAM 70 after the first year, UWA's course-transfer rule allows a move into BH008 (it needs at least 24 points done, WAM 70, and Maths Methods or MATH1721). The handbook also says BH008 admission is by ATAR 90, an assured pathway or an access program, so transfer eligibility needs written confirmation.
+- **Robotics and embedded.** Embedded Systems (ELEC3020) is a core engineering unit, not a CS option; it appears as a prerequisite alternative for AI and Adaptive Systems. There is no robotics major in the BSc CS pathway that I could find. [O: [ELEC3020](https://www.handbooks.uwa.edu.au/unitdetails?code=ELEC3020)]
+- **Games.** No games degree or game studio. The graphics unit is the closest.
+
+| Interest | Deakin BAI / BCS | QUT BIT / Games | UWA BSc CS |
+|---|---|---|---|
+| ML and deep learning at undergraduate level | **Strong** (BAI) | **Strong** (AI major, ML) | **Absent** in BSc; only in the 4-year ATAR 90 degree |
+| Robotics and embedded | **Strong** (BCS Robotics major, embedded minor) | Moderate (engineering unit) | Weak |
+| Graphics and games | Moderate (game minor) | **Strong** (Games degree) | Moderate (one graphics unit) |
+| Theory and algorithms | Strong | Moderate | **Strong** |
+| Industry placement | Compulsory WIL | Capstone with clients | Optional WIL internship |
+
+**Verdict on UWA.** UWA is a good, ACS-accredited, theory-solid degree from a Go8 university, and it fits a "strong foundation" goal. It is not the best fit for his stated interests, which point towards AI and robotics at the undergraduate level. Deakin BAI or BCS, or QUT BIT with the AI or CS major, cover those better and cost less. UWA would make sense only if he values the Go8 name, Perth's setting and a theory-heavy degree. Its main practical risks are location (Perth is across the country from Brisbane, my knowledge) and the unverified Maharashtra HSC conversion. If you want a firmer UWA answer, ask a UWA agent to confirm in writing: (1) his ATAR equivalent from the Maharashtra HSC, (2) the maths bridging load, (3) whether BH008 transfer is open to a BSc student.
+
+**New open points**
+
+11. UWA's conversion table for Maharashtra HSC and the Global Excellence Scholarship eligibility.
+12. UWA fee: AUD 54,400 vs 54,600 (two reads differ).
+13. Perth living-cost estimate and UWA graduate outcomes for international CS undergraduates.
+14. 28 Dec 2026 deadline comes from third-party pages quoting UWA; confirm on the course page.
+
+### 10.7 Asia Pacific University (APU), Kuala Lumpur (Added, 4th pass, 18 Nov 2026)
+
+**Course:** BSc (Hons) Computer Science (Artificial Intelligence), 3 years, awarded by APU (Malaysia). Programme code R2/0613/6/0041. Next intakes: **25 Mar 2027** and **6 Jul 2027** (the 24 Nov 2026 intake is too soon for a student-pass visa). [O: [APU course page](https://www.apu.edu.my/course/bsc-hons-in-computer-science-ai)]
+
+**Entry for Kushal**
+
+- APU accepts overseas qualifications equivalent to Class 12 / A-Level / HSC. The CS (AI) degree needs Maths plus a Science or ICT subject. [O: APU course page]
+- **No minimum percentage is published for Indian boards.** Applications are assessed case by case against the Malaysian Qualifications Agency (MQA) equivalency list. [3P: [malaysiastudy.in](https://malaysiastudy.in/admission/class-12-requirements/)] His Maths 82 and Physics 88 should satisfy the subject rules [EST]. Get a written assessment from an APU representative before paying.
+- English: IELTS 5.0, PTE 47, TOEFL iBT 40, or MUET Band 3.5. [O: APU course page]
+- **No scholarship for him on published rules.** APU merit awards (10–30%) cover A-Levels, IGCSE and IB; SPM awards (up to 50%) are for Malaysian school-leavers. Indian state-board results are not listed. [O: [APU merit awards](http://apu.edu.my/apu-international-students-scholarships-merit-awards)]
+
+**Curriculum (AI degree)**
+
+- Year 1: programming (Python), databases, networking, Introduction to AI, object-oriented programming, mathematics for computing.
+- Year 2: AI Methods, Programming for Data Analysis, Concurrent Programming, Data Structures, Computer Systems Low Level Technique, Imaging and Special Effects, Web Applications. **16-week internship.**
+- Year 3: Further AI, **Optimization and Deep Learning**, Text Analytics and Sentiment Analysis, **Image Processing, Computer Vision and Pattern Recognition**, Algorithmics, Advanced Database Systems, User Experience, final-year project in AI.
+- APU says it has an Nvidia DGX Spark AI lab. I did not check the actual depth of the units.
+- APU also offers separate degrees in Computer Games Development, VR/AR and Interactive Media (same fee band). Not researched.
+- Optional **APU–De Montfort University (UK) dual degree**: £450 per level (£1,350 over 3 years, about ₹1.7 lakh), paid at the start. Gives a second certificate from DMU, but he still studies in KL. [O: [APU fee guide](https://publicwebsite-media.apu.edu.my/assets/2026-02/e2026Jan-APU%20Fee%20Guide_Int%20UG_3.8.pdf), [APU dual degree](https://www.apu.edu.my/dual-degree)]
+
+**Cost (RM, then ₹ at RM 1 = ₹22.83)**
+
+| Item | Amount | Source |
+|---|---|---|
+| Tuition, 3 years | RM 108,500 plus 6% tax, about RM 115,010 | [O: APU fee guide] |
+| Visa and processing fees | RM 5,400 (RM 3,400 on accepting the offer, RM 2,000 on visa approval). I allowed up to RM 7,400 for later renewals [EST]. One APU page shows RM 3,600 instead of RM 3,400. | [O: APU fee guide] |
+| Accommodation, lean | Satellite triple-share RM 410–610; off-campus twin RM 550–880 per month. One-off RM 280–450. | [O: APU residence pages] |
+| Accommodation, middle | Off-campus single RM 660–1,000 per month | [O: APU residence pages] |
+| Accommodation, comfortable | On-campus en-suite single RM 1,190–1,600 per month | [O: APU residence pages] |
+| Food, transport, daily costs | RM 1,600–2,000 per month. APU does not say whether this includes rent. | [O: [APU international students guide](https://www.apu.edu.my/international-students-guide)] |
+
+| Scenario | Total (RM) | Total (₹) |
+|---|---|---|
+| Low (rent inside the RM 1,600 budget) | about 178k | **about ₹40.6 lakh** |
+| Middle (about RM 800 rent, RM 1,800 other costs) | about 216k | **about ₹49.4 lakh** |
+| High (en-suite single on campus, RM 2,000 other costs) | about 245k | **about ₹56 lakh** |
+
+Not included: flights home (probably under ₹1 lakh over 3 years [EST]), the DMU dual award, and ringgit movements. The ringgit fell from about ₹23.4 to ₹22.8 over the last month. My earlier assumption of ₹20 per ringgit was too low.
+
+**Ranking evidence**
+
+- QS World University Rankings 2027: **#528** overall (#597 in 2026). QS Asia 2027: #139. [O: [APU](https://www.apu.edu.my/the-university)]
+- QS Computer Science and Information Systems 2026: **301–350 world, 10th in Malaysia** [3P: [Menggy](https://uni.menggy.com/qs-university-subject-rankings-computer-science-and-information-systems-country/malaysia)]. APU's own page says only "Top 350". For comparison: QUT 160, Deakin 172, UWA 251.
+- APU claims "100% employability" from a Malaysian government tracer study (mostly domestic graduates). Treat as marketing; I found no data for international graduates.
+
+**Working after graduation (the weak point)**
+
+- Malaysia's **Graduate Pass** gives 1 year. It needs a Malaysian sponsor with at least RM 1,500 a month and permits part-time work only in authorised sectors. [O: [EMGS](https://visa.educationmalaysia.gov.my/graduate-pass)]
+- The 2026 **Employment Pass for foreign graduates** needs a CGPA of at least 3.5 and a RM 4,000 salary. It covers only five manufacturing sectors (electrical and electronics, specialty chemicals, aerospace, pharmaceuticals, medical devices), lasts up to 24 months, and cannot be converted. Software roles mostly don't qualify. [O: [MIDA guidelines, 1 Jun 2026](https://www.mida.gov.my/wp-content/uploads/2026/06/Guidelines-EP-Foreign-Graduate_1-June-2026_latest.pdf)]
+- **No Australian post-study visa** follows an APU degree. That comes only from an Australian master's.
+
+**Later route to Australia**
+
+- Australian Master of IT programmes take an equivalent bachelor's at about 60% (Monash) or 65% (UNSW) [O: [Monash](https://www.monash.edu/study/courses/find-a-course/information-technology-c6001), [UNSW](https://www.unsw.edu.au/study/postgraduate/master-of-information-technology)]. I did not confirm they accept APU.
+- ACS skills assessment treats a 3-year bachelor's as an IT major if at least 33% is IT, and it still requires 2–4 years of relevant work experience. APU's Seoul Accord status is unverified. [O: [ACS](https://www.acs.org.au/msa/infohub/qualifications-evidence.html)]
+- APU bachelor plus a 2-year Australian master's: roughly ₹1.5 cr and 5 years, about the same as QUT alone but two years longer, with an extra admission and visa risk.
+
+**Four-way comparison**
+
+| | **APU** | **QUT** BIT | **UWA** BSc CS | **Deakin** BCS/BAI |
+|---|---|---|---|---|
+| City | Kuala Lumpur | Brisbane | Perth | Melbourne |
+| Next start | 25 Mar 2027 | Feb 2027 | Feb 2027 (India deadline 28 Dec 2026) | T1 Mar 2027 |
+| English | IELTS 5.0 | IELTS 6.5 | IELTS 6.5 | IELTS 6.0 each band |
+| Estimated total cost | **₹41–56 lakh** | ₹1.55–1.65 cr | ₹1.71–1.81 cr | ₹1.28–1.38 cr (25%) |
+| QS CS rank | 301–350 | 160 | 251 | 172 |
+| AI/ML at bachelor's level | Strong (dedicated AI degree) | Strong (AI major) | Absent in the BSc | Strong (BAI) |
+| Post-study work | Weak | 2 yrs | 2 yrs | 2 yrs |
+
+**My view (judgement):** APU suits a cost-first plan or a cheap fallback that still starts in March 2027. It does not suit an overseas-career goal. QUT or Deakin stay ahead for Kushal, and UWA is last of the Australian three for his interests. In the overall ranking APU sits outside the Australian list, as a separate low-cost option.
+
+**Open points**
+
+15. Written confirmation from APU of his Class 12 eligibility (no percentage is published).
+16. Student-pass (EMGS) processing time before 25 Mar 2027.
+17. Whether the RM 1,600–2,000 living budget includes rent.
+18. Whether an Australian master's accepts an APU degree.
+19. APU's Seoul Accord status, for ACS skills assessment.
+20. APU's Games, VR/AR and Interactive Media degrees, if his games interest matters.
+
+### 10.8 Curriculum fit: Deakin, QUT, UWA, APU (Added, 4th pass, 18 Nov 2026)
+
+Unit-level detail, with unit codes and caveats, is in `research/80_au_my_curriculum_comparison_2026-11.md`. Interests used: AI, robotics, games/graphics, embedded.
+
+| Interest | Deakin BAI / BCS | QUT BIT / Games | UWA BSc CS | APU CS (AI) |
+|---|---|---|---|---|
+| ML and deep learning at bachelor's level | **Strong** (BAI) | **Strong** (AI major) | **Absent** in the BSc | Strong |
+| Robotics and embedded | **Strong** (BCS Robotics major, Embedded minor) | Moderate (engineering unit) | Weak | Moderate |
+| Graphics and games | Moderate (Game Design minor) | **Strong** (Games degree) | Moderate (one unit) | Moderate |
+| Theory and algorithms | Strong | Moderate | **Strong** | Moderate |
+| Work placement | Compulsory WIL | Client capstone | Optional internship | 16-week internship |
+
+**Best fit by goal (judgement):**
+- Engine and gameplay programming: **QUT Games degree**.
+- Deepest AI at bachelor's level: **Deakin BAI (S308)**, same AUD 43,800 fee as BCS.
+- Robotics or embedded plus AI: **Deakin BCS (Robotics major or Embedded minor)**.
+- Best overall balance, in Brisbane: **QUT BIT, Computer Science major** (an AI second major is possible but unconfirmed).
+- UWA fits his interests only through its ATAR 90 Advanced Computer Science (Honours) degree, which is unlikely from 82% on a state board.
+- APU has the most AI content for the price, but a weaker brand and no post-study work route.
+
+**Caveats:** the QUT Games 2027 fee and accreditation are unverified (older fee AUD 44,300), and I found no named game-AI unit. Deakin's reinforcement learning unit (SIT796) is postgraduate. Whether his Deakin offer is for BCS (S306) or another course is not confirmed.
