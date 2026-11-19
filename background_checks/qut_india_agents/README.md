@@ -11,14 +11,14 @@ Researched: 2026-11-06. Context: nephew (Solapur, Maharashtra) wants QUT Bachelo
 | `03_engagement_checklist.md` | How to vet and work with an agent safely |
 
 ## Confirmed: you are right, India must use an agent
-QUT's own pages (International applying; Agent checklist; "How to apply") list **India** among the countries whose offshore applicants **must use a QUT official representative**; the QUT Application Portal blocks direct applications for those nationalities. My earlier line in `adwisko/04` that "apply direct on the university portal" was wrong for QUT and is corrected there. (Not checked for Deakin: confirm separately.)
+QUT's own pages (International applying; Agent checklist; "How to apply") list **India** among the countries whose offshore applicants **must use a QUT official representative**; the QUT Application Portal blocks direct applications for those nationalities. My earlier line in `adwisko/04` that "apply direct on the university portal" was wrong for QUT and is corrected there. (Deakin also requires an authorised agent for India: see `report/fresh/41_qut_scholarship_and_agents.md`.)
 Maharashtra is **not** one of the restricted locations in QUT's agent checklist (restrictions apply to parts of Haryana, Uttarakhand, Rajasthan, UP, Himachal, plus special rules for Punjab and Gujarat). Applicants from India also need a South Asia Genuine Student Form and a Statement of Purpose, plus the agent's checklist (unmarried, 12 months of funds shown, etc.).
 
 ## Important finding on earlier checks
 **Neither Adwisko nor WeMakeScholars is on QUT's official India representative list** (as of the page updated 19 Oct 2026, read 6 Nov 2026). So neither can lodge a QUT application for him. They could only act as a side advisor or loan broker. Adwisko's claims that it handles admissions for "all major destinations" do not extend to QUT as far as QUT's list shows (Adwisko may be on other universities' lists; not checked).
 
 ## Note on the course name
-QUT has no degree literally titled "Bachelor of Computer Science" in my earlier research (`report/AUSTRALIA_DEAKIN_QUT.md`). The matching degrees there are **Bachelor of Information Technology (IN01, Computer Science major)** and **Bachelor of Games & Interactive Environments (IN05, Software Technologies major, Feb only)**. Ask the agent to confirm the exact course codes and that they can lodge both.
+QUT has no degree literally titled "Bachelor of Computer Science" in my earlier research (now removed; see `report/fresh/40_australia_ranking.md` and `research/80_au_my_curriculum_comparison_2026-11.md`). The matching degrees there are **Bachelor of Information Technology (IN01, Computer Science major)** and **Bachelor of Games & Interactive Environments (IN05, Software Technologies major, Feb only)**. Ask the agent to confirm the exact course codes and that they can lodge both.
 
 ## Ranked shortlist (judgement, not an official ranking)
 All are on QUT's official India list, have Maharashtra-relevant offices, and say counselling is free. Evidence behind a ranking is thin; the individual counsellor matters more than the brand. Details in `02`.

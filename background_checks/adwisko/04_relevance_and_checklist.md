@@ -1,12 +1,12 @@
 # 04 - Relevance to the Nephew and Checklist
 
-Context (see `../wemakescholars/06_relevance_to_nephew.md`, `report/AUSTRALIA_DEAKIN_QUT.md`, `report/INDIA_VS_OVERSEAS_ASSESSMENT.md`): Solapur, Maharashtra; HSC 82%, SAT 1310, DET 130; Ritsumeikan ISSE rejected; options India-first, QUT/Deakin, Aizu; cost-conscious; loan acceptable.
+Context (see `../wemakescholars/06_relevance_to_nephew.md`, `report/fresh/40_australia_ranking.md`, `report/fresh/10_eligibility_by_country.md`): Solapur, Maharashtra; HSC 82%, SAT 1310, DET 130; Ritsumeikan ISSE rejected; options India-first, QUT/Deakin, Aizu; cost-conscious; loan acceptable.
 
 ## Does Adwisko add value here?
 | Need | What the facts say |
 |---|---|
-| **Application help for QUT/Deakin** | **CORRECTION (2026-11-06):** QUT does NOT accept direct applications from India; an official QUT representative is mandatory (see `../qut_india_agents/`). **Adwisko is not on QUT's official India representative list**, so it cannot lodge a QUT application. Deakin's rule for India was not checked. Use an agent from QUT's list for QUT; Adwisko could only act as a side adviser. |
-| **Scholarships** | Biggest scholarships for him are university merit awards (Deakin 20% merit applies; QUT 25% needs 90% for State Boards, he doesn't qualify) applied directly or auto-assessed. An agent cannot create these. "5 scholarships per university" probably includes small or loan-linked awards. |
+| **Application help for QUT/Deakin** | **CORRECTION (2026-11-06):** QUT does NOT accept direct applications from India; an official QUT representative is mandatory (see `../qut_india_agents/`). **Adwisko is not on QUT's official India representative list**, so it cannot lodge a QUT application. Deakin also requires an authorised agent for India (see `report/fresh/41_qut_scholarship_and_agents.md`); Adwisko's Deakin status was not checked. Use an agent from QUT's list for QUT; Adwisko could only act as a side adviser. |
+| **Scholarships** | Biggest scholarships for him are university merit awards (Deakin India 25% merit scholarship, which needs 80%+ per NOOSR conversion; QUT 25% needs 90% for State Boards, he doesn't qualify) applied directly or auto-assessed. An agent cannot create these. "5 scholarships per university" probably includes small or loan-linked awards. |
 | **Aizu / Japan** | Admission rules changed (Indian HSC/SAT no longer accepted as proof per progress log 2026-11-01); a generic consultancy is unlikely to know the detail better than the university guide and EJU/MEXT pages. No Japan-specific Adwisko evidence found. |
 | **India-first path** | Not Adwisko's business (study abroad). |
 | **Loan** | Routes to WMS; apply the `../wemakescholars/05` checklist. |

@@ -1,5 +1,7 @@
 # Nephew profile
 
+**Status note (18 Nov 2026):** the Japan and Germany parts below are historical. Ritsumeikan ISSE rejected him, Aizu no longer accepts his academic proof, and he pivoted away from Germany. Current options: Australia (Deakin offer in hand, QUT, UWA and others), APU Kuala Lumpur, and India first. See `README.md`. Additional facts: HSC first sat 2025, repeated 2026; no Indian entrance exam taken; his uncle (the person asking) lives in Brisbane.
+
 - From India. Studying overseas for a Bachelor's (3-4 yr).
 - Scores: SAT 1310/1600 (English 620, Maths 690). 12th grade HSC 82% (Maths 82, Physics 88). Duolingo English Test (DET) 130/160.
 - Note: HSC is likely Maharashtra State Board (to verify; matters for admission equivalency, esp. Germany / Studienkolleg and Japan).

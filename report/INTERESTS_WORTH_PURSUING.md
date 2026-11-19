@@ -26,4 +26,4 @@
 3. Portfolio should show systems depth: small game/simulation under a memory budget, an embedded or robotics project, a real-time NPC system.
 4. Internships from year 2 to learn whether games, robotics or applied AI fits best.
 
-Related: research/72_online_courses_and_prep.md (courses/roadmap), report/SHORTLIST_LATEST.md (shortlist), research/71_curricula_kaist_ctu_elte.md.
+Related: research/72_online_courses_and_prep.md (courses/roadmap). The older shortlist and Japan/Germany notes were removed on 18 Nov 2026 (git history, commit a643bc8).

@@ -1,4 +1,9 @@
 # research/
-One file per topic. Naming: 01-04 = the nephew's 4 links, 10s = Australia extras, 20s = Germany, 30 = curriculum matrix, 40 = alternatives, 50 = costs, 60s = India first, 70s = other countries.
-80s = fresh assessment (Nov 2026): 80 = curriculum comparison for Deakin, QUT, UWA and APU.
+Raw notes that sit behind the reports. Older Japan, Germany and earlier Australia notes were removed on 18 Nov 2026 (git history, commit `a643bc8`).
+
+| File | Contents |
+|---|---|
+| `80_au_my_curriculum_comparison_2026-11.md` | Unit-level curriculum for Deakin, QUT, UWA and APU, with fit by interest |
+| `72_online_courses_and_prep.md` | Free courses and a self-study roadmap |
+
 Each file header: source URL, date accessed, confidence (high/med/low).

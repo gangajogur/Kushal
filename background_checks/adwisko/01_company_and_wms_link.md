@@ -40,3 +40,11 @@ The gap suggests LinkedIn undercounts, or advisors are contract/entry-level and 
 - Dec 2025 - Apr 2026: Reddit threads asking whether Adwisko is genuine.
 - Jan 2026: LinkedIn campaign "students pay lakhs for advice... we do it for free. No commissions."
 - Oct 2026: LinkedIn posts repeating the government-supported line.
+
+## Additional details (merged from a parallel pass, 18 Nov 2026)
+- Tofler record updated 8 Oct 2026; industry code 85500 (educational support services).
+- WeMakeScholars Edtech Pvt Ltd paid-up capital is about INR 99 lakh, against INR 1 lakh for Beca. Ardara Assets LLP (same two directors) was incorporated 21 Nov 2025; purpose unknown.
+- Adwisko's About page uses the past tense ("Adwisko **was** an innovative, scholarship-first platform started by... the team that created WeMakeScholars").
+- No registration evidence found for the "WeMakeScholars Foundation" (no Section 8 company, trust or CSR-1 registration). Beca and WMS are legally separate (different CIN) but share ownership and directors.
+- A sample "Scholarship Advisor" seen on LinkedIn had about 1 year 9 months of total experience, 2 months at Adwisko, and earlier export sales and HR intern roles.
+- No independent press coverage found; operating history is about 3 years.

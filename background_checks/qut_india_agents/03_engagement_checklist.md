@@ -14,7 +14,7 @@
 9. **Financial capacity**: QUT checklist requires funds equal to 12 months of living costs, tuition, travel and study costs. Education loans are commonly used; see `../wemakescholars/05_regulation_alternatives_checklist.md`. Do not let anyone create fake or temporary funds.
 10. **Visa**: in Australia, giving immigration/visa advice generally requires a registered migration agent (check OMARA register). Education counsellors may help with forms but verify who is lodging and their registration number. He can also self-lodge. (Not researched in detail here; confirm.)
 11. Get QUT's Tuition Fee Refund Policy and International Student Transfer Policy in writing (QUT checklist says the agent must explain; transfer is restricted before 6 months of full-time study).
-12. Apply to QUT directly through the agent but **also keep Deakin/Aizu options open** in parallel; ask whether Deakin requires an agent for India too (not checked).
+12. Apply to QUT directly through the agent but **also keep Deakin/Aizu options open** in parallel; Deakin also requires an authorised agent for India (checked 5th pass), so one QUT-listed agent that is also Deakin-authorised can handle both.
 
 ## Red flags to walk away
 - "Guaranteed admission/visa/scholarship".
@@ -27,4 +27,4 @@
 ## Dates
 - QUT Feb 2027 intake: Indian applicant deadline 25 Jan 2027 (per earlier report; re-check QUT key dates).
 - English test (IELTS/PTE/TOEFL) must be completed first; DET not accepted for QUT.
-- Visa 500 fee A$2,500 from 1 Jul 2026; QUT 2027 allocation 4,750 (see `report/AUSTRALIA_DEAKIN_QUT.md`).
+- Visa 500 fee A$2,500 from 1 Jul 2026; QUT 2027 allocation 4,750 (from an earlier report, now removed; see git history, commit a643bc8).
