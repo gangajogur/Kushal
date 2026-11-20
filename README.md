@@ -12,7 +12,7 @@ Independent research for a nephew in Solapur, Maharashtra (Maharashtra HSC 82%, 
 | Topic detail (eligibility, costs, ranking, UWA, APU, curriculum, shortlist, actions, carried-over options) | `report/fresh/` |
 | Unit-level curriculum detail | `research/80_au_my_curriculum_comparison_2026-11.md` |
 | Education-loan scenarios and Genuine Student drafts | `Loan/README.md` |
-| Agent due diligence (QUT's mandatory agent route, ranked agents; WeMakeScholars, Adwisko) | `background_checks/` |
+| Agent / lender due diligence (QUT agents; WeMakeScholars, Adwisko; Credila) | `background_checks/` |
 | His profile and interests | `02_nephew_profile.md` |
 | Self-study plan and interests advice | `report/SELF_STUDY_PLAN.md`, `report/INTERESTS_WORTH_PURSUING.md`, `research/72_online_courses_and_prep.md` |
 
